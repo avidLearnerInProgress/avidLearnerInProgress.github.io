@@ -8679,3 +8679,11 @@ body.is-preload .items.onload-fade-in > * > .inner {
   transform: rotate(270deg);
   transition: transform 0.4s linear 0s, border-left-width 0s linear 0.35s;
 }
+
+.a:hover {
+    color:#f39c19;
+}
+
+.img:hover {
+    color:#f39c19;
+}
